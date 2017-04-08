@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: news | engnz website]]></title>
+  <link href="http://engnz.github.io/blog/categories/news/atom.xml" rel="self"/>
+  <link href="http://engnz.github.io/"/>
+  <updated>2017-04-08T22:59:16+12:00</updated>
+  <id>http://engnz.github.io/</id>
+  <author>
+    <name><![CDATA[tonoccho]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[コミュニティ設立]]></title>
+    <link href="http://engnz.github.io/blog/2017/04/08/komiyuniteishe-li/"/>
+    <updated>2017-04-08T22:38:42+12:00</updated>
+    <id>http://engnz.github.io/blog/2017/04/08/komiyuniteishe-li</id>
+    <content type="html"><![CDATA[<h3>engnzですよ</h3>
+
+<p>engnzです、エンジンズって読みます。この度NZに在住しているエンジニアの皆さんが、
+いろんな技術的なことをやりとりできる場としてこのコミュニティを作りました。</p>
+
+<p>一応このコミュニティは<a href="https://github.com/tonoccho">tonoccho</a>が立てていますが、
+このほかにも数名管理者として力を貸していただいています。</p>
+
+<h3>何をしたいか</h3>
+
+<p>NZにこれから移住したい人、今移住に向けて頑張ってる人、すでに移住を終えた人、が
+たまにはそう言ったことを忘れて純粋に技術的な興味をぶちまけられる場にできればと
+思っている次第です。</p>
+]]></content>
+  </entry>
+  
+</feed>

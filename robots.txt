@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://engnz.github.io/sitemap.xml 
