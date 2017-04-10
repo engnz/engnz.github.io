@@ -4,7 +4,7 @@
   <title><![CDATA[engnz website]]></title>
   <link href="http://engnz.github.io/atom.xml" rel="self"/>
   <link href="http://engnz.github.io/"/>
-  <updated>2017-04-09T19:50:56+12:00</updated>
+  <updated>2017-04-11T10:33:18+12:00</updated>
   <id>http://engnz.github.io/</id>
   <author>
     <name><![CDATA[tonoccho]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[チャットとか]]></title>
+    <link href="http://engnz.github.io/blog/2017/04/11/tiyatutotoka/"/>
+    <updated>2017-04-11T10:31:12+12:00</updated>
+    <id>http://engnz.github.io/blog/2017/04/11/tiyatutotoka</id>
+    <content type="html"><![CDATA[<h3>Slackにチャットを立てました。</h3>
+
+<p>ご連絡です。詳しくは <a href="https://github.com/engnz/community/issues/3">チケット</a>を見てください。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[コミュニティ設立]]></title>
